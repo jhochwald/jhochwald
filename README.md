@@ -14,4 +14,5 @@ Write-Output -InputObject ''
 Write-Output -InputObject 'He is an active member on several well-known Internet forums, runs his own websites, a blogger and active on Twitter. He supports the open-source community, by publish a lot of his code and support several open-source projects.'
 ```
 
-![jhochwald's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhochwald&show_icons=true&theme=radical)
+![jhochwald's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhochwald&show_icons=true&theme=transparent)
+[![jhochwald's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhochwald)]
