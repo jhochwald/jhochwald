@@ -16,6 +16,7 @@ Write-Output -InputObject 'He is an active member on several well-known Internet
 <a href="https://github.com/jhochwald">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhochwald&show_icons=true&theme=transparent" />
 </a>
+<br />
 <a href="https://github.com/jhochwald">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhochwald&theme=transparent" />
 </a>
