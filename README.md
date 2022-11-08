@@ -16,3 +16,6 @@ Write-Output -InputObject 'He is an active member on several well-known Internet
 
 ![jhochwald's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhochwald&show_icons=true&theme=transparent)
 [![jhochwald's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhochwald&theme=transparent)]
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhochwald&show_icons=true&theme=transparent" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhochwald&theme=transparent" />
