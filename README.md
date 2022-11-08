@@ -13,10 +13,5 @@ Write-Output -InputObject 'Josh has close Vendor relationships and aligns with i
 Write-Output -InputObject ''
 Write-Output -InputObject 'He is an active member on several well-known Internet forums, runs his own websites, a blogger and active on Twitter. He supports the open-source community, by publish a lot of his code and support several open-source projects.'
 ```
-<a href="https://github.com/jhochwald">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhochwald&show_icons=true&theme=transparent" />
-</a>
-<br />
-<a href="https://github.com/jhochwald">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhochwald&theme=transparent" />
-</a>
+<p><a href="https://github.com/jhochwald"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jhochwald&show_icons=true&theme=transparent" /></a></p>
+<p><a href="https://github.com/jhochwald"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhochwald&theme=transparent" /></a></p>
