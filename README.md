@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Josh (Joerg Hochwald)
 
-### I do IT/OT stuff, I’m also deeply involved in cybersecurity-related topics, an I automate OT or M365 related things. And I (still) write lot of software, of cause because I can.
+### I do IT/OT stuff, I’m also deeply involved in cybersecurity-related topics, and I automate a lot of OT or M365 related things. And I (still) write lot of software, of cause because I can.
 
 - 🔭 I'm currently working on **lots and lots of automation** Sometimes I really try to automate all the things.
 
