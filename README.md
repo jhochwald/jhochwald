@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Josh (Joerg Hochwald)
 
-### I do IT/OT stuff, I’m also deeply involved in cybersecurity-related topics, mostly OT or M365 related. And I write lot of software, of cause because I can.
+### I do IT/OT stuff, I’m also deeply involved in cybersecurity-related topics, an I automate OT or M365 related things. And I (still) write lot of software, of cause because I can.
 
 - 🔭 I'm currently working on **lots and lots of automation** Sometimes I really try to automate all the things.
 
-- 💬 Ask me about **Automation, PowerShell, C#, .NET, Ansible, and OT (Operational Technology)** related stuff.
+- 💬 Ask me about **Automation, PowerShell, C#, .NET, Microsoft M365, Microsoft Graph, Ansible, and OT (Operational Technology)** related stuff.
 
 - 📫 You can reach me at **<contact+github@jhochwald.com>**
 
-- ⚡ Fun fact **OT (Operational Technology) can be fun! Trust me.**
+- ⚡ Fun fact: **OT (Operational Technology) can be fun!** Trust me.
 
 - 👨‍💻 Some of my projects are available at **[https://jhochwald.com](https://jhochwald.com)** or **[https://jhochwal.net](https://jhochwal.net)**
 
