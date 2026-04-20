@@ -2,9 +2,9 @@
 
 ### I do IT/OT stuff, I’m also deeply involved in cybersecurity-related topics, mostly OT or M365 related. And I write lot of software, of cause because I can.
 
-- 🔭 I'm currently working on **lots and lots of automation, Sometimes I really try to automate all the things.**
+- 🔭 I'm currently working on **lots and lots of automation** Sometimes I really try to automate all the things.
 
-- 💬 Ask me about **Automation, PowerShell, C#, .NET, Ansible, and OT (Operational Technology) related stuff**
+- 💬 Ask me about **Automation, PowerShell, C#, .NET, Ansible, and OT (Operational Technology)** related stuff.
 
 - 📫 How to reach me **<contact+github@jhochwald.com>**
 
