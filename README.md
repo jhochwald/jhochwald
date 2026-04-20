@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Automation, PowerShell, C#, .NET, Ansible, and OT (Operational Technology)** related stuff.
 
-- 📫 How to reach me **<contact+github@jhochwald.com>**
+- 📫 You can reach me at **<contact+github@jhochwald.com>**
 
 - ⚡ Fun fact **OT (Operational Technology) can be fun! Trust me.**
 
@@ -22,7 +22,7 @@
 >
 > With exceptional design and problem-solving skills through precise methodologies applied at both technical and business levels, Josh strives to achieve the best business outcomes. He is known for his attention to detail with infrastructure assessment, architecture/design, and implementation, from both customers and peers.
 >
-> Josh has worked on a wide variety of projects either independently and with systems integrator, and as such, has developed a high level of skill and experience in his niche.
+> Josh has worked on a wide variety of projects either independently and with systems integrators, and as such, has developed a high level of skill and experience in his niche.
 
 <h3 align="left">Other ways to enagage me:</h3>
 <p align="left"></a><a href="https://linkedin.com/in/jhochwald" target="blank"><img align="center"
